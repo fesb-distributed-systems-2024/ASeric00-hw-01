@@ -1,1 +1,4 @@
-# ASeric00-hw-01
+# ASeric00's First Repository
+Hello, World!
+---
+Author: ASeric00
